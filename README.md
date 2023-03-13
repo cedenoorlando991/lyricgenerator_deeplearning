@@ -1,1 +1,2 @@
-# lyricgenerator_deeplearning
+Collaborators: Jarra Omar, Orlando Cedeno
+

@@ -35,4 +35,4 @@ except:
     pass #folder already exists irrelevant error tbh
 with open(Path(ROOT_DIR, 'data', filename)) as f:
     for rapper in [line.strip() for line in f.readlines()]:
-        genius.scrape_artist("Drake")
+        genius.scrape_artist(rapper)
